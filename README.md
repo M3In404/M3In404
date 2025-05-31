@@ -10,29 +10,29 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a startup**
+🔭 I’m currently working on **a startup**
  
- 🌱 I’m currently learning **Docker, Supabase, NextJS**
+🌱 I’m currently learning **Docker, Supabase, NextJS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/M3In404/M3In404/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:syedrafinulhuq@yahoo.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/devamrh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/M3In404" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -56,7 +56,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=M3In404&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=M3In404&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3In404&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
